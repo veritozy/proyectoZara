@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import { resolve } from 'path'
 
 export default defineConfig({
-  base: '/proyectoZara/'
+  base: '/proyectoZara/',
   build: {
     rollupOptions: {
       input: {
